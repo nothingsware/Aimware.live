@@ -14,8 +14,8 @@
 
 :root {
     --blue: #1c87b9;
-    --blue-opacity-150: rgba(198, 143, 91, 0.15);
-    --blue-opacity-250: rgba(198, 143, 91, 0.15);
+    --blue-opacity-150: rgba(3, 28, 49, 0.884);
+    --blue-opacity-250: rgba(3, 33, 58, 0.884);
     --blue-opacity-500: rgba(32, 132, 214, 0.884);
     --purple: #A1A1F0;
     --white: #FFFFFF;
