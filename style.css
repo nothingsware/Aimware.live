@@ -13,11 +13,11 @@
 *::-webkit-scrollbar-thumb:active{background:var(--purple)}
 
 :root {
-    --blue: #1c87b9;
-    --blue-opacity-150: rgba(3, 28, 49, 0.884);
-    --blue-opacity-250: rgba(3, 33, 58, 0.884);
-    --blue-opacity-500: rgba(32, 132, 214, 0.884);
-    --purple: #A1A1F0;
+    --blue: #9c6cb8;
+    --blue-opacity-150: rgba(147, 26, 196, 0.15);
+    --blue-opacity-250: rgba(145, 77, 209, 0.15);
+    --blue-opacity-500: rgba(136, 95, 201, 0.884);
+    --purple: #9c6cb8;
     --white: #FFFFFF;
     --white-opacity-500: rgba(255,255,255,0.5);
     --white-opacity-250: rgba(255,255,255,0.25);
@@ -367,13 +367,8 @@ nav {
     position: absolute;
     top: 0;
     left: 0;
-    border-radius: 7px;
-    display: flex;
-    justify-content: center;
+    border-radius: 7px
 }
-video
-{max-width: 100%;
-height: auto;}
 
 .carousel-item:hover {
     cursor: grab;
